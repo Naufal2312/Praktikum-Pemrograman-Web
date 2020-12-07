@@ -1,0 +1,19 @@
+{
+    "name": {
+        "first": "Naufal",
+        "last": "Irvansyah"
+    },
+    "gender": "Laki-laki",
+    "saudara": {
+        "first": "Nisrina"
+    },
+    "orangtua": {
+        "ayah": "Abdul H.",
+        "ibu": "Ida R."
+    },
+    "hobby": ["Tidur", "Meratapi kehidupan"],
+    "alamat": "Tanjung Senang, Bandar Lampung",
+    "social_media": {
+        "instagram": "Naufal Irvansyah"
+    }
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <alamat>Tanjung Senang, Bandar Lampung</alamat>
+   <gender>Laki-laki</gender>
+   <hobby>
+      <element>Tidur</element>
+      <element>Meratapi kehidupan</element>
+   </hobby>
+   <name>
+      <first>Naufal</first>
+      <last>Irvansyah</last>
+   </name>
+   <orangtua>
+      <ayah>Abdul H.</ayah>
+      <ibu>Ida R.</ibu>
+   </orangtua>
+   <saudara>
+      <first>Nisrina</first>
+   </saudara>
+   <social_media>
+      <instagram>Naufal Irvansyah</instagram>
+   </social_media>
+</root>
